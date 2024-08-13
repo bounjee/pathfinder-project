@@ -1,0 +1,772 @@
+[
+    {
+        "name": "Zeugma Mozaik Müzesi",
+        "description": "Dünyaca ünlü mozaik koleksiyonuna sahip bir müze.",
+        "google_maps_link": "https://goo.gl/maps/XYZ123",
+        "tags": [
+          "müze",
+          "tarihi_müze",
+          "sanat_müzesi",
+          "sesli_tur",
+          "rehberli_tur",
+          "arkeolojik_alan",
+          "geleneksel_mimari"
+        ]
+      },
+      {
+        "name": "Gaziantep Oyuncak Müzesi",
+        "description": "Çeşitli dönemlerden kalma oyuncakların sergilendiği Gaziantep Oyuncak Müzesi, çocuklar ve yetişkinler için ilgi çekici bir mekandır.",
+        "google_maps_link": "https://goo.gl/maps/ABC456",
+        "tags": [
+          "müze",
+          "tarihi_müze",
+          "çocuk_müzesi",
+          "interaktif_sergi",
+          "geleneksel_mimari"
+        ]
+      },
+      {
+        "name": "Şahinbey Milli Mücadele Müzesi",
+        "description": "Şahinbey Milli Mücadele Müzesi, Gaziantep halkının Fransız işgaline karşı direnişini anlatan tarihi bir müzedir. 12 odalı tarihi binada yer alan müze, canlandırmalar ve sergilerle zenginleştirilmiştir.",
+        "google_maps_link": "https://goo.gl/maps/DEF789",
+        "tags": [
+          "müze",
+          "tarihi_müze",
+          "tarihi_bina",
+          "kültürel_miras",
+          "rehberli_tur",
+          "geleneksel_mimari"
+        ]
+      },
+
+
+      {
+        "name": "Tarihi Gümrük Hanı",
+        "description": "Tarihi Gümrük Hanı, Gaziantep'te yer alan ve tarihi dokusu ile dikkat çeken bir handır.",
+        "google_maps_link": "https://goo.gl/maps/GHI123",
+        "tags": [
+          "tarihi_bina",
+          "kültürel_miras",
+          "tarihi_anıt",
+          "geleneksel_mimari"
+        ]
+      }, 
+      {
+        "name": "Gaziantep Karkamış Antik Kenti",
+        "description": "Karkamış Antik Kenti, Gaziantep'te yer alan ve antik döneme ait kalıntıları barındıran önemli bir arkeolojik alan.",
+        "google_maps_link": "https://goo.gl/maps/JKL456",
+        "tags": [
+          "arkeolojik_alan",
+          "antik_şehir",
+          "tarihi_kalıntılar",
+          "kültürel_miras"
+        ]
+      },
+      {
+        "name": "Zeugma Antik Kenti",
+        "description": "Zeugma Antik Kenti, Gaziantep'te yer alan önemli bir arkeolojik alandır ve antik döneme ait kalıntılar barındırır.",
+        "google_maps_link": "https://goo.gl/maps/MNO789",
+        "tags": [
+          "arkeolojik_alan",
+          "antik_şehir",
+          "tarihi_kalıntılar",
+          "kültürel_miras",
+          "geleneksel_mimari"
+        ]
+      },
+      {
+        "name": "Bakırcılar Çarşısı",
+        "description": "Gaziantep'in ünlü Bakırcılar Çarşısı, geleneksel el sanatları ve bakır işçiliği ürünleri ile tanınır.",
+        "google_maps_link": "https://goo.gl/maps/ABC123",
+        "tags": [
+          "tarihi_bina",
+          "geleneksel_mimari",
+          "kültürel_miras",
+          "alışveriş"
+        ]
+      },
+      {
+        "name": "Gaziantep Kalesi",
+        "description": "Gaziantep Kalesi, şehrin simgelerinden biri olan tarihi bir kale.",
+        "google_maps_link": "https://goo.gl/maps/DEF456",
+        "tags": [
+          "tarihi_bina",
+          "kale",
+          "tarihi_anıt",
+          "kültürel_miras"
+        ]
+      },
+      {
+        "name": "Kürkçü Han",
+        "description": "Gaziantep'in tarihi Kürkçü Han'ı, geleneksel bir ticaret merkezi olarak bilinir.",
+        "google_maps_link": "https://goo.gl/maps/GHI789",
+        "tags": [
+          "tarihi_bina",
+          "geleneksel_mimari",
+          "kültürel_miras",
+          "alışveriş"
+        ]
+      },
+      {
+        "name": "Yesemek Açık Hava Müzesi",
+        "description": "Yesemek Açık Hava Müzesi, Gaziantep'te yer alan önemli bir kültürel miras alanıdır.",
+        "google_maps_link": "https://goo.gl/maps/XYZ987",
+        "tags": [
+          "kültürel_miras",
+          "açık_hava_müzesi",
+          "arkeolojik_alan",
+          "tarihi_kalıntılar"
+        ]
+      },{
+        "name": "Kurtuluş Camii",
+        "description": "Gaziantep'te yer alan Kurtuluş Camii, tarihi ve mimari önemi olan bir yapıdır.",
+        "google_maps_link": "https://goo.gl/maps/ABC123",
+        "tags": [
+          "dini_yapı",
+          "cami",
+          "tarihi_bina",
+          "kültürel_miras"
+        ]
+      },
+      {
+        "name": "Halfeti Batık Camii",
+        "description": "Halfeti'de yer alan Batık Camii, su altında kalmış tarihi bir yapıdır.",
+        "google_maps_link": "https://goo.gl/maps/DEF456",
+        "tags": [
+          "dini_yapı",
+          "cami",
+          "tarihi_bina",
+          "kültürel_miras"
+        ]
+      },
+      {
+        "name": "Yuşa Aleyhisselam ve Pir Sefa Türbesi",
+        "description": "Gaziantep'te yer alan Yuşa Aleyhisselam ve Pir Sefa Türbesi, manevi önemi büyük olan bir türbedir.",
+        "google_maps_link": "https://goo.gl/maps/GHI789",
+        "tags": [
+          "dini_yapı",
+          "türbe",
+          "kültürel_miras",
+          "tarihi_bina"
+        ]
+      }, 
+      {
+        "name": "Gaziantep Sanko Sanat Galerisi",
+        "description": "Gaziantep Sanko Sanat Galerisi, çeşitli sanat eserlerinin sergilendiği önemli bir sanat galerisidir.",
+        "google_maps_link": "https://goo.gl/maps/XYZ987",
+        "tags": [
+          "sanat_kültür",
+          "sanat_galerisi",
+          "sanat_sergisi",
+          "kültürel_miras",
+          "modern_sanat"
+        ]
+      },
+      {
+        "name": "Papirüs Kafe (Tarihi Konak)",
+        "description": "Gaziantep'te yer alan Papirüs Kafe, tarihi bir konakta hizmet veren otantik bir kafe.",
+        "google_maps_link": "https://goo.gl/maps/ABC123",
+        "tags": [
+          "tarihi_bina",
+          "geleneksel_mimari",
+          "kafe",
+          "kültürel_miras",
+          "fotoğraf_izni",
+          "manzara_noktası"
+        ]
+      },
+      {
+        "name": "Rumkale Cam Teras",
+        "description": "Gaziantep'te yer alan Rumkale Cam Teras, etkileyici manzarası ile ünlü bir turistik noktadır.",
+        "google_maps_link": "https://goo.gl/maps/DEF456",
+        "tags": [
+          "manzara",
+          "doğal_güzellikler",
+          "kültürel_miras",
+          "fotoğraf_izni",
+          "panoramik_görünüm",
+          "manzara_noktası"
+        ]
+      },
+      {
+        "name": "Primemall",
+        "description": "Gaziantep'te yer alan büyük bir alışveriş merkezi.",
+        "google_maps_link": "https://goo.gl/maps/PRIMEMALL123",
+        "tags": [
+          "büyük_alışveriş_merkezi",
+          "avm",
+          "modern_alışveriş",
+          "elektronik",
+          "yiyecek"
+        ]
+      },
+      {
+        "name": "Sankopark",
+        "description": "Gaziantep'teki bir diğer büyük alışveriş merkezi.",
+        "google_maps_link": "https://goo.gl/maps/SANKOPARK123",
+        "tags": [
+          "büyük_alışveriş_merkezi",
+          "avm",
+          "modern_alışveriş"
+        ]
+      },
+      {
+        "name": "Turistik Gaziantep Çarşısı",
+        "description": "Gaziantep'te yer alan turistik bir çarşı.",
+        "google_maps_link": "https://goo.gl/maps/TURISTIKCARSISI123",
+        "tags": [
+          "yerel_butik",
+          "küçük_mağaza",
+          "el_yapımı",
+          "yerel_ürünler",
+          "hediyelik_eşya",
+          "geleneksel_mimari",
+          "yerel_ürün"
+        ]
+      },
+      {
+        "name": "Bakırcılar Çarşısı",
+        "description": "Gaziantep'te yer alan geleneksel el sanatları çarşısı.",
+        "google_maps_link": "https://goo.gl/maps/BAKIRCILAR123",
+        "tags": [
+          "yerel_butik",
+          "küçük_mağaza",
+          "el_yapımı",
+          "yerel_ürünler",
+          "hediyelik_eşya"
+        ]
+      },
+      {
+        "name": "Kapalı Çarşı",
+        "description": "Gaziantep'te yer alan kapalı çarşı.",
+        "google_maps_link": "https://goo.gl/maps/KAPALICARSI123",
+        "tags": [
+          "yerel_butik",
+          "küçük_mağaza",
+          "el_yapımı",
+          "yerel_ürünler"
+        ]
+      },{
+        "name": "Sosyete Pazarı",
+        "description": "Gaziantep'te yer alan bir sosyete pazarı.",
+        "google_maps_link": "https://goo.gl/maps/SOSYETEPZARI123",
+        "tags": [
+          "pazar",
+          "sosyete_pazarı",
+          "açık_hava_pazarı"
+        ]
+      },
+      {
+        "name": "Semt Pazarı",
+        "description": "Gaziantep'te yer alan bir semt pazarı.",
+        "google_maps_link": "https://goo.gl/maps/SEMTPZARI123",
+        "tags": [
+          "pazar",
+          "yerel_pazar",
+          "açık_hava_pazarı"
+        ]
+      },
+      {
+        "name": "Burç Göleti",
+        "description": "Gaziantep'te doğa yürüyüşleri için popüler bir yer.",
+        "google_maps_link": "https://goo.gl/maps/BURCGOLETI123",
+        "tags": [
+          "doğa_yürüyüşü",
+          "trekking",
+          "yürüyüş_pisti",
+          "doğa_yolu",
+          "hiking"
+        ]
+      },
+      {
+        "name": "Hacı Arslan Göleti",
+        "description": "Gaziantep'te bisiklet turları için uygun bir gölet.",
+        "google_maps_link": "https://goo.gl/maps/HACIARSLANGOLETI123",
+        "tags": [
+          "bisiklet_turu",
+          "bisiklet_yolu",
+          "bisiklet_parkuru",
+          "dağ_bisikleti",
+          "bisiklet_gezi"
+        ]
+      },
+      {
+        "name": "Dülükbaba",
+        "description": "Gaziantep'te piknik ve kamp alanı.",
+        "google_maps_link": "https://goo.gl/maps/DULUKBABA123",
+        "tags": [
+          "piknik",
+          "kamp",
+          "kamp_alanı",
+          "açık_hava_pikniği",
+          "çadır_kampı"
+        ]
+      },
+      {
+        "name": "Gölet",
+        "description": "Gaziantep'te piknik ve kamp alanı.",
+        "google_maps_link": "https://goo.gl/maps/GOLET123",
+        "tags": [
+          "piknik",
+          "kamp",
+          "kamp_alanı",
+          "açık_hava_pikniği",
+          "çadır_kampı"
+        ]
+      },
+      {
+        "name": "Gizem Doğan Yaşam Kampı",
+        "description": "Gaziantep'te piknik ve kamp alanı.",
+        "google_maps_link": "https://goo.gl/maps/GIZEMDOGANKAMPI123",
+        "tags": [
+          "piknik",
+          "kamp",
+          "kamp_alanı",
+          "açık_hava_pikniği",
+          "çadır_kampı"
+        ]
+      },
+      {
+        "name": "Dülükbaba Ormanı Trekking Yolu",
+        "description": "Gaziantep'te dağcılık ve tırmanış için uygun bir trekking yolu.",
+        "google_maps_link": "https://goo.gl/maps/DULUKBABAORMANI123",
+        "tags": [
+          "dağcılık",
+          "tırmanış",
+          "dağ_tırmanışı",
+          "kaya_tırmanışı",
+          "zirve_yürüyüşü"
+        ]
+      },
+      {
+        "name": "Harikalar Diyarı",
+        "description": "Gaziantep'te su sporları ve eğlence için popüler bir mekan.",
+        "google_maps_link": "https://goo.gl/maps/HARIKALARDIYARI123",
+        "tags": [
+          "su_sporları",
+          "kano",
+          "rafting",
+          "nehir_rafting",
+          "su_kano",
+          "eğlence"
+        ]
+      },
+      {
+        "name": "Gölet",
+        "description": "Gaziantep'te su sporları için uygun bir alan.",
+        "google_maps_link": "https://goo.gl/maps/GOLETSUSPORLARI123",
+        "tags": [
+          "su_sporları",
+          "kano",
+          "rafting",
+          "nehir_rafting",
+          "su_kano"
+        ]
+      },
+      {
+        "name": "Hayvanat Bahçesi",
+        "description": "Gaziantep'te hayvan gözlemciliği ve doğa fotoğrafçılığı için ideal bir yer.",
+        "google_maps_link": "https://goo.gl/maps/HAYVANATBAHÇESI123",
+        "tags": [
+          "hayvan_gözlemciliği",
+          "doğa_fotoğrafçılığı",
+          "kuş_gözlem",
+          "vahşi_doğa_fotoğrafçılığı",
+          "yaban_hayatı_gözlem"
+        ]
+      },
+      {
+        "name": "Mutfak Sanatları Merkezi Restoranı",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/MSMR123",
+        "tags": [
+          "gastronomi",
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler"
+        ]
+      },
+      {
+        "name": "Metanet",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/METANET123",
+        "tags": [
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler"
+        ]
+      },
+      {
+        "name": "Bayazhan",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/BAYAZHAN123",
+        "tags": [
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler"
+        ]
+      },
+      {
+        "name": "Katmerci Zekeriya",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/KATMERCIZEKERIYA123",
+        "tags": [
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler"
+        ]
+      },
+      {
+        "name": "Kaburgantep",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/KABURGANTEP123",
+        "tags": [
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler"
+        ]
+      },
+      {
+        "name": "Recep Usta",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/RECEPUSTA123",
+        "tags": [
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler"
+        ]
+      },
+      {
+        "name": "Koçak Baklava",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir baklava dükkanı.",
+        "google_maps_link": "https://goo.gl/maps/KOCAKBAKLAVA123",
+        "tags": [
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler",
+          "tatlılar",
+          "hamur_işleri",
+          "tatlı_mutfak"
+        ]
+      },
+      {
+        "name": "Güllüoğlu Baklava",
+        "description": "Gaziantep'te yerel mutfak lezzetlerinin sunulduğu bir baklava dükkanı.",
+        "google_maps_link": "https://goo.gl/maps/GULLUOGLUBAKLAVA123",
+        "tags": [
+          "yerel_mutfak",
+          "geleneksel_yemekler",
+          "yöresel_lezzetler",
+          "otantik_mutfak",
+          "bölgesel_yemekler"
+        ]
+      },
+      {
+        "name": "Koyu Mavi Balık Restaurant",
+        "description": "Gaziantep'te deniz ürünleri sunan bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/KOYUMAVIBALIK123",
+        "tags": [
+          "deniz_ürünleri",
+          "balık_restoranı",
+          "deniz_menüsü",
+          "taze_deniz_ürünleri",
+          "su_ürünleri"
+        ]
+      },
+      {
+        "name": "Sandal",
+        "description": "Gaziantep'te deniz ürünleri sunan bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/SANDAL123",
+        "tags": [
+          "deniz_ürünleri",
+          "balık_restoranı",
+          "deniz_menüsü",
+          "taze_deniz_ürünleri",
+          "su_ürünleri"
+        ]
+      },
+      {
+        "name": "Yesemek Gaziantep Mutfağı",
+        "description": "Gaziantep'te vegan ve vejetaryen yemekler sunan bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/YESEMEK123",
+        "tags": [
+          "vegan",
+          "vejetaryen",
+          "bitkisel_beslenme",
+          "vegan_restoran",
+          "vejetaryen_yemekler"
+        ]
+      },
+      {
+        "name": "Boğazköy",
+        "description": "Gaziantep'te vegan ve vejetaryen yemekler sunan bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/BOGAZKOY123",
+        "tags": [
+          "vegan",
+          "vejetaryen",
+          "bitkisel_beslenme",
+          "vegan_restoran",
+          "vejetaryen_yemekler"
+        ]
+      },
+      {
+        "name": "Nohutçu Metin Usta",
+        "description": "Gaziantep'te sokak yemekleri sunan bir yer.",
+        "google_maps_link": "https://goo.gl/maps/NOHUTCUMETIN123",
+        "tags": [
+          "sokak_yemekleri",
+          "sokak_lezzetleri",
+          "hızlı_yemek",
+          "sokak_satıcısı",
+          "ayaküstü_yemek"
+        ]
+      },
+      {
+        "name": "Varil Çorba",
+        "description": "Gaziantep'te sokak yemekleri sunan bir yer.",
+        "google_maps_link": "https://goo.gl/maps/VARILCORBA123",
+        "tags": [
+          "sokak_yemekleri",
+          "sokak_lezzetleri",
+          "hızlı_yemek",
+          "sokak_satıcısı",
+          "ayaküstü_yemek"
+        ]
+      },
+      {
+        "name": "Çıtır Lahmacun",
+        "description": "Gaziantep'te sokak yemekleri sunan bir yer.",
+        "google_maps_link": "https://goo.gl/maps/CITIRLAHMACUN123",
+        "tags": [
+          "sokak_yemekleri",
+          "sokak_lezzetleri",
+          "hızlı_yemek",
+          "sokak_satıcısı",
+          "ayaküstü_yemek"
+        ]
+      },
+      {
+        "name": "Sakıp Usta",
+        "description": "Gaziantep'te sokak yemekleri sunan bir yer.",
+        "google_maps_link": "https://goo.gl/maps/SAKIPUSTA123",
+        "tags": [
+          "sokak_yemekleri",
+          "sokak_lezzetleri",
+          "hızlı_yemek",
+          "sokak_satıcısı",
+          "ayaküstü_yemek"
+        ]
+      },
+      {
+        "name": "Bişirici",
+        "description": "Gaziantep'te lüks bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/BISIRICI123",
+        "tags": [
+          "lüks_restoran",
+          "gurme_mutfak",
+          "fine_dining",
+          "prestijli_yemek",
+          "üst_düzey_restoran"
+        ]
+      },
+      {
+        "name": "Çulcuoğlu",
+        "description": "Gaziantep'te lüks bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/CULCUOGLU123",
+        "tags": [
+          "lüks_restoran",
+          "gurme_mutfak",
+          "fine_dining",
+          "prestijli_yemek",
+          "üst_düzey_restoran"
+        ]
+      },
+      {
+        "name": "Ciğerci Mustafa",
+        "description": "Gaziantep'te lüks bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/CIGERCIMUSTAFA123",
+        "tags": [
+          "lüks_restoran",
+          "gurme_mutfak",
+          "fine_dining",
+          "prestijli_yemek",
+          "üst_düzey_restoran"
+        ]
+      },
+      {
+        "name": "Bayazhan",
+        "description": "Gaziantep'te lüks bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/BAYAZHAN123",
+        "tags": [
+          "lüks_restoran",
+          "gurme_mutfak",
+          "fine_dining",
+          "prestijli_yemek",
+          "üst_düzey_restoran"
+        ]
+      },
+      {
+        "name": "Assado",
+        "description": "Gaziantep'te lüks bir restoran.",
+        "google_maps_link": "https://goo.gl/maps/ASSADO123",
+        "tags": [
+          "lüks_restoran",
+          "gurme_mutfak",
+          "fine_dining",
+          "prestijli_yemek",
+          "üst_düzey_restoran"
+        ]
+      },
+      {
+        "name": "Therma La Dolce Vita Termal Kaplıca ve Kür Merkezi",
+        "description": "Gaziantep'te spa ve masaj terapileri, hamam ve termal kaplıca hizmetleri sunan bir merkez.",
+        "google_maps_link": "https://goo.gl/maps/THERMADOLCE123",
+        "tags": [
+          "spa",
+          "masaj_terapisi",
+          "aromaterapi",
+          "rahatlama_masajı",
+          "spa_tedavisi",
+          "türk_hamamı",
+          "hamam",
+          "kaplıca",
+          "termal_havuz",
+          "sıcak_su_kaynağı"
+        ]
+      },
+      {
+        "name": "Büyük Paşa Hamamı",
+        "description": "Gaziantep'te yer alan tarihi bir Türk hamamı.",
+        "google_maps_link": "https://goo.gl/maps/BUYUKPASAHAMAMI123",
+        "tags": [
+          "türk_hamamı",
+          "hamam",
+          "geleneksel_hamam",
+          "buhar_banyosu",
+          "kese"
+        ]
+      },
+      {
+        "name": "Hüseyin Paşa Hamamı",
+        "description": "Gaziantep'te yer alan tarihi bir Türk hamamı.",
+        "google_maps_link": "https://goo.gl/maps/HUSEYINPASAHAMAMI123",
+        "tags": [
+          "türk_hamamı",
+          "hamam",
+          "geleneksel_hamam",
+          "buhar_banyosu",
+          "kese"
+        ]
+      },
+      {
+        "name": "Tarihi Naip Hamamı",
+        "description": "Gaziantep'te yer alan tarihi bir Türk hamamı.",
+        "google_maps_link": "https://goo.gl/maps/TARIHINAIPHAMAMI123",
+        "tags": [
+          "türk_hamamı",
+          "hamam",
+          "geleneksel_hamam",
+          "buhar_banyosu",
+          "kese"
+        ]
+      },
+      {
+        "name": "Uğurlu Termal Resorts & Spa",
+        "description": "Gaziantep'te yer alan kaplıca ve termal havuzlar sunan bir tesis.",
+        "google_maps_link": "https://goo.gl/maps/UGURLUTERMAL123",
+        "tags": [
+          "kaplıca",
+          "termal_havuz",
+          "sıcak_su_kaynağı",
+          "termal_spa",
+          "sağlık_kaynağı"
+        ]
+      },
+      {
+        "name": "Duran Ağa Konağı Butik Otel",
+        "description": "Gaziantep'te yer alan tarihi bir konakta hizmet veren butik otel.",
+        "google_maps_link": "https://goo.gl/maps/DURANAGA123",
+        "tags": [
+          "butik_otel",
+          "tarihi_bina",
+          "geleneksel_mimari",
+          "butik_konaklama",
+          "şık_otel"
+        ]
+      },
+      {
+        "name": "Aynur Hanım Konağı Butik Otel",
+        "description": "Gaziantep'te yer alan tarihi bir konakta hizmet veren butik otel.",
+        "google_maps_link": "https://goo.gl/maps/AYNURHANIM123",
+        "tags": [
+          "butik_otel",
+          "tarihi_bina",
+          "geleneksel_mimari",
+          "butik_konaklama",
+          "şık_otel"
+        ]
+      },
+      {
+        "name": "Şirehan Hoteli",
+        "description": "Gaziantep'te yer alan tarihi bir konakta hizmet veren otel.",
+        "google_maps_link": "https://goo.gl/maps/SIREHANHOTEL123",
+        "tags": [
+          "butik_otel",
+          "tarihi_bina",
+          "geleneksel_mimari",
+          "butik_konaklama",
+          "şık_otel"
+        ]
+      },
+      {
+        "name": "DoubleTree by Hilton Gaziantep",
+        "description": "Gaziantep'te yer alan lüks bir otel.",
+        "google_maps_link": "https://goo.gl/maps/DOUBLETREE123",
+        "tags": [
+          "lüks_otel",
+          "beş_yıldızlı_otel",
+          "premium_konaklama",
+          "yüksek_kalite_otel",
+          "üst_düzey_otel"
+        ]
+      },
+      {
+        "name": "Shimall Deluxe Hotel & Kongre Merkezi",
+        "description": "Gaziantep'te yer alan lüks bir otel ve kongre merkezi.",
+        "google_maps_link": "https://goo.gl/maps/SHIMALLDELUXE123",
+        "tags": [
+          "lüks_otel",
+          "beş_yıldızlı_otel",
+          "premium_konaklama",
+          "yüksek_kalite_otel",
+          "üst_düzey_otel"
+        ]
+      },
+      {
+        "name": "Kule Hotel",
+        "description": "Gaziantep'te yer alan bir tatil köyü ve resort.",
+        "google_maps_link": "https://goo.gl/maps/KULEHOTEL123",
+        "tags": [
+          "tatil_köyü",
+          "resort",
+          "her_şey_dahil",
+          "tatil_köyü_konaklama",
+          "dinlenme_tesisi"
+        ]
+      }
+
+  ]
